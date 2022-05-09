@@ -6,4 +6,4 @@ Difference between Fuzzy and fuzzy-filter python file only on how many data want
 
 *only for extract dataframe function for different structure type of how data rows and columns define need to be adjust, by default please see excell file original structure already include in this repo
 
-## Please note this particular excell project is used in real Final Essay of Banchelor Degree, if want to used also in other essay project please use different dataset
+## Please note this particular excell project is used in real Final Essay of Bachelor Degree, if want to used also in other essay project please use different dataset
